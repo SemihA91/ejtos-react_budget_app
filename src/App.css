@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-dropdown {
+    background-color: lightblue;
+    color: orange;
+}

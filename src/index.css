@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#currency-dd{
+    background-color: lightgreen;
+}
+.custom-dropdown {
+    color: black;
+    border-radius: 6px;
+    background-color: lightgreen;
+
+}
+
+.custom-dropdown option {
+    background-color: lightgreen;
+}
+
